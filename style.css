@@ -17,4 +17,4 @@ font-style: italic
 }
 .mapa{
 width: 800px;
-height: 600px;
+height: inherit;
