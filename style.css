@@ -16,9 +16,8 @@ h1,h2,h3{
 .momentos {
 
     margin: 10px;
-    border: 2px solid black
     font-style: italic
-    
+    border: 2px
 }
 .linha {
     
