@@ -14,7 +14,9 @@ h1,h2,h3{
 }
 
 .momentos {
+
     margin: 10px;
+    border: 2px solid #000000
     font-style: italic
     
 }
