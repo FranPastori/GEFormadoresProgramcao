@@ -1,5 +1,6 @@
 body{
     background-color: rgb(226, 226, 224);
+    margin: 10px;
 }
 .banner {
     width: 100%;
@@ -14,7 +15,7 @@ h1,h2,h3{
 
 .momentos {
     font-style: italic
-    
+    margin: 10px;
 }
 .linha {
     
