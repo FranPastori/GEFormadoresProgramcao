@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(226, 226, 224);
+    background-color:#FDA2AB;
     margin: 10px;
     padding: 10px;
 }
@@ -11,10 +11,11 @@ p {
     text-align: justify;
 }
 h1,h2,h3{
-    color: rgb(145, 79, 206);
+    color: #EF197B;
 }
 
 .momentos {
+    background-color: #FFDD6C;
      text-align:justify;
     margin: 10px;
     font-style: italic;
