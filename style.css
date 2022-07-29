@@ -15,11 +15,15 @@ h1,h2,h3{
 }
 
 .momentos {
-
+     text-align:justify;
     margin: 10px;
     font-style: italic;
     border: 2px solid black;
     padding: 20px
+}
+.Tsessao{
+     text-align:center;
+
 }
 .linha {
     
