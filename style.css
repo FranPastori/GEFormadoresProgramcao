@@ -9,12 +9,26 @@ p {
     text-align: justify;
 }
 h1,h2,h3{
-color: rgb(145, 79, 206);
+    color: rgb(145, 79, 206);
 }
 
 .momentos {
-font-style: italic
+    font-style: italic
+}
+.linha {
+    position: relative; 
+    width: 100% ;
+    height: 0; 
+    padding-top: 72.4138%;
+    padding-bottom: 48px;
+    box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16);
+    margin-top: 1.6em;
+    margin-bottom: 0.9em; 
+    overflow: hidden;
+    border-radius: 8px; 
+    will-change: transform;
+
 }
 .mapa{
-width: 800px;
-height: inherit;
+    width: 800px;
+    height: inherit;
