@@ -14,8 +14,9 @@ h1,h2,h3{
 }
 
 .momentos {
-    font-style: italic
     margin: 10px;
+    font-style: italic
+    
 }
 .linha {
     
