@@ -51,6 +51,12 @@ h1,h2,h3{
     font-size: 22px;
     color: #EF197B;
 }
+.competencias{
+    padding: 20px;
+}
+.habilidades{
+    padding: 20px;
+}
 .objetivos{
     text-align:justify;
     padding: 20px;
