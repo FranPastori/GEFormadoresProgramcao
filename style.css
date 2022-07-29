@@ -1,4 +1,5 @@
 header {
+    
     background-color: #FFBE56;
     padding: 20px 0;
 }
@@ -34,8 +35,10 @@ nav a {
     width: 100%;
 }
 main {
+    margin: 30px;
     background-color:#FDA2AB;
     text-decoration: none;
+    padding: 20px;
 }
 p {
     color: rgb(0, 0, 0);
