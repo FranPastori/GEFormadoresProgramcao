@@ -28,6 +28,7 @@ nav a {
 }
 main {
     background-color:#FDA2AB;
+    text-decoration: none;
 }
 p {
     color: rgb(0, 0, 0);
@@ -59,4 +60,4 @@ h1,h2,h3{
 .mapa{
     
     width: 800px;
-    height: inherit;
+    height: inherit;}
