@@ -21,18 +21,18 @@ h1,h2,h3{
     border: 2px solid black;
     padding: 20px
 }
-.Tsessao{
+.Titulo-centralizado{
      text-align:center;
 
 }
 .linha {
-    text-align:center;
+    
     width: 800px ;
     height: inherit; 
 
 
 }
 .mapa{
-    text-align:center;
+    
     width: 800px;
     height: inherit;
