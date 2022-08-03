@@ -1,5 +1,5 @@
-html{
-    background-color: #FFDD6C;
+body {
+    background-color: #EF197B;
 }
 header {
     
@@ -39,7 +39,8 @@ nav a {
 }
 main {
     list-style: none;
-    background-color:#FDA2AB;
+    background-color:#EF197B;
+    ;
     text-decoration: none;
     padding: 25px;
 }
@@ -57,10 +58,12 @@ h1,h2,h3{
 .habilidades{
     padding: 20px;
 }
-.objetivos{
+.divisao{
     text-align:justify;
     padding: 20px;
-    
+    border: 2px solid black;
+    background-color: #FF80BA;
+    margin: 20px;
 }
 .momentos {
     background-color: #FFDD6C;
