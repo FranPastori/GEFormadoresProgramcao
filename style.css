@@ -28,6 +28,12 @@ nav a {
     text-decoration: none;
 }
 
+nav li a:hover {
+    color: black;
+    text-decoration: underline;
+
+}
+
 .caixa {
     width: 940px;
     position: relative;
