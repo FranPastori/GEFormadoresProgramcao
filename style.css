@@ -71,24 +71,18 @@ h1,h2,h3{
     margin: 10px;
     font-style: italic;
     border: 2px solid black;
-    padding: 20px
-}
-.elementoexterno{
-    padding: 20px;
+    padding: 20px}
 
+.elementoexterno{
+    position: relative;
+    left: 307px;
+    padding: 20px;
+    width : 614px ;
+    height: 414px;
 }
 .Titulo-centralizado{
      text-align:center;
 
 }
-.linha {
-    
-    width: 800px ;
-    height: inherit; 
 
 
-}
-.mapa{
-    
-    width: 800px;
-    height: inherit;}
