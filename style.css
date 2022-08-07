@@ -94,4 +94,22 @@ h1,h2,h3{
 
 }
 
+/* Contato*/
 
+form {
+    margin: 20px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 10px;
+    padding: 10px 25px 10px 25px;
+    width: 50%;
+    font-size: 20px;
+}
+form label {
+    font-size: 20px;
+    margin: 0 0 10px;
+    padding: 10px 25px 10px 25px;
+
+}
