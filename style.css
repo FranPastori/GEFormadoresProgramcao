@@ -83,6 +83,8 @@ h1,h2,h3{
     border-radius: 20px;
 }
 .momentos {
+    display: flex;
+    justify-items: center;
     background-color: #FFDD6C;
      text-align:justify;
     margin: 10px;
