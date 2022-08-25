@@ -83,9 +83,6 @@ h1,h2,h3{
     border-radius: 20px;
 }
 .momentos {
-    display: inline-block;
-
-   
     background-color: #FFDD6C;
      text-align:justify;
     margin: auto;
@@ -96,6 +93,7 @@ h1,h2,h3{
 }
 
 .elementoexterno{
+    display: inline-block;
    margin: 1em auto;
     padding: 20px;
     width : 614px;
