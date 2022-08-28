@@ -103,7 +103,7 @@ max-width: 940px;
 
 .elementoexterno{
     display: inline-block;
-    margin: 1em auto;
+    margin: 1em 15vw;
     padding: 20px;
     width : 70vw;
     height: 41vw;
