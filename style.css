@@ -107,8 +107,8 @@ max-width: 940px;
     padding: 20px;
     width : 70vw;
     height: 41vw;
-    max-width: 940px;
-    max-width: 553px;
+    max-width: 1094px;
+    max-width: inherit;
 }
 .Titulo-centralizado{
      text-align:center;
