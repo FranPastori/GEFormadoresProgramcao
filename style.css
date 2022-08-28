@@ -93,14 +93,6 @@ h1,h2,h3{
     border-radius: 20px;
 }
 
-.momentos li {
-display: flex;
-align-items: center;
-flex-direction: column;
-width: 71vw;
-max-width: 940px;
-
-}
 
 .elementoexterno{
     display: inline-block;
