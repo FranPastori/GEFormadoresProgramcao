@@ -8,11 +8,12 @@ header {
     padding: 20px 0;
 }
 .logo{
-    height:200px;
-    width: 200px;
+    height:50vw;
+    width: 50vw
 }
 nav {
-    position: absolute;
+    display: inline-block;
+    width: 50vw;
     top: 100px;
     right:0;
 }
