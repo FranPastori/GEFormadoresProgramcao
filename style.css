@@ -18,7 +18,7 @@ nav {
 }
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
+    margin: 0 0 0 .20rem;
 }
 
 nav a {
@@ -36,7 +36,7 @@ nav li a:hover {
 }
 
 .caixa {
-    width: 940px;
+    width: 80vw;
     position: relative;
     margin: 0 auto
 }
