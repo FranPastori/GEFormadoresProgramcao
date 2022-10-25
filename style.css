@@ -23,7 +23,7 @@ nav {
     right:-7vw;}
     
 nav li {
-    color: black;
+    
     height: 40px;
     display: inline;
     text-align: left;
@@ -33,6 +33,7 @@ nav li {
 }
 
 nav a {
+    color: black;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 22px;
