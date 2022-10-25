@@ -24,7 +24,7 @@ nav {
     
 nav li {
     
-    height: 60px;
+    height: 80px;
     display: inline;
     text-align: left;
     margin: 0 0 .20rem .20rem;
@@ -44,6 +44,7 @@ nav a {
 nav li a:hover {
     color: #FFDD6C;
     text-decoration: underline;
+    background-color: black;
 
 }
 
