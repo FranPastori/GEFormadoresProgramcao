@@ -24,12 +24,13 @@ nav {
     
 nav li {
     
-    height: 40px;
+    height: 60px;
     display: inline;
     text-align: left;
     margin: 0 0 .20rem .20rem;
     background-color: #EF197B;
     border-radius: 20px;
+    border: 2px solid black;
 }
 
 nav a {
