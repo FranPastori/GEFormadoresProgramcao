@@ -21,10 +21,10 @@ nav {
     width: 50vw;
     top:13vw;
     right:-7vw;
+    color: black;
 }
 nav li {
     height: 40px;
-    color: black;
     display: inline;
     text-align: left;
     margin: 0 0 .20rem .20rem;
