@@ -23,13 +23,13 @@ nav {
     right:-7vw;
 }
 nav li {
+    height: 40px;
     color: black;
     display: inline;
     text-align: left;
     margin: 0 0 .20rem .20rem;
     background-color: #EF197B;
     border-radius: 20px;
-    margin-left: 2px;
 }
 
 nav a {
