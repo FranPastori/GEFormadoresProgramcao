@@ -19,13 +19,17 @@ nav {
     position: absolute;
     display: inline-block;
     width: 50vw;
-    top: 5vw;
-    right:1vw;
+    top:13vw;
+    right:-7vw;
 }
 nav li {
+    color: black;
     display: inline;
     text-align: left;
     margin: 0 0 .20rem .20rem;
+    background-color: #EF197B;
+    border-radius: 20px;
+    margin-left: 2px;
 }
 
 nav a {
@@ -37,7 +41,7 @@ nav a {
 }
 
 nav li a:hover {
-    color: black;
+    color: #EF197B;
     text-decoration: underline;
 
 }
